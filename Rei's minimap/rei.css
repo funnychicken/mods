@@ -1,9 +1,9 @@
 #body {
 	font-size: 40;
-	background-color: #C8C8C8;
-	padding-left: 25px;
-	padding-right: 25px;
-	margin-left: 5px;
+	background-position: center;
+	background-color: #888888;
+	padding: 25px;
+	margin: 5px;
 	height: 100%;
 	border: 10px;
 	width: 800px;
@@ -11,15 +11,36 @@
 
 }
 
+#articalrei {
+	font-size: 30;
+	background-color: #C0C0C0;
+	float: left;
+	width: 800px;
+	height: auto;
+
+
+}
+
+#download {
+	font-size: 30;
+	background: #C0C0C0;
+	border-top: 10px;
+
+
+}
+
+.body 	33333333.p {
+	background-image: url(rei.jpg);
+
 
 }
 
 #header {
-	background-image: url(https://dl.dropboxusercontent.com/u/31356626/mods/mod.jpeg);
-	background-repeat: no-repeat;
-	background-position: center top;
-	height: auto;
-	width: auto;
+background-image: url(mod.jpeg);
+background-repeat: no-repeat;
+background-position: top;
+height: auto;
+width: auto;
 
 }
 
